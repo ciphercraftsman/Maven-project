@@ -1,0 +1,8 @@
+Maven goals jag har använt:
+
+mvn clean - ta bort klassfilerna
+mvn compile - kompilera
+mvn test - testning
+mvn package - packetering
+mvn surefire-report - rapport för testerna
+mvn javadoc:javadoc - javadoc
