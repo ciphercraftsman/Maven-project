@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/projekt/uppgift2/Maven-project/Inlamningsuppgift2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/projekt/uppgift2/Maven-project/Inlamningsuppgift2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'your-artifact-id 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/projekt/uppgift2/Maven-project/Inlamningsuppgift2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'your-artifact-id 1.0-SNAPSHOT API'
+fredrik
+models
+ui
+utilities
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\src\main\java = 1706778247985
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\allclasses-index.html = 1707222971599
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\allpackages-index.html = 1707222971605
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\element-list = 1707222971396
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\help-doc.html = 1707222971653
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\index-all.html = 1707222971641
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\index.html = 1707222971569
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\jquery-ui.overrides.css = 1707222971682
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\member-search-index.js = 1707222971614
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\module-search-index.js = 1707222971608
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\overview-summary.html = 1707222971646
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\overview-tree.html = 1707222971563
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\package-search-index.js = 1707222971610
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\script.js = 1707222971661
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\search.js = 1707222971665
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\serialized-form.html = 1707222971466
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\stylesheet.css = 1707222971658
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\tag-search-index.js = 1707222971617
+C:\projekt\uppgift2\Maven-project\Inlamningsuppgift2\target\site\apidocs\type-search-index.js = 1707222971612
